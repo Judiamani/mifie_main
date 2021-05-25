@@ -1,0 +1,40 @@
+.esp {
+    margin-top: 80px;
+}
+
+.for {
+    margin-top: 20px;
+}
+
+.forx {
+    margin-top: 40px;
+}
+
+.col {
+    color: #2f780f;
+}
+
+.qz {
+    margin-top: 40px;
+    margin-left: 55px;
+}
+
+.geek {
+    width: 540px;
+    margin-left: 150px;
+    height: 340px;
+    margin-top: 25px;
+}
+
+.test-class img {
+    width: 310px;
+    height: 300px;
+}
+
+#time-table {
+    display: block
+}
+
+header {
+    display: block;
+}
